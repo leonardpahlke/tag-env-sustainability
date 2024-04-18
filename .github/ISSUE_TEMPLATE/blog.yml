@@ -2,7 +2,6 @@ name: Blog Post
 description: File a bug report.
 title: "[BLOG] "
 labels: ["wg-comms/blog", "issue/needs-triage", "board/wg-comms"]
-projects: ["cncf/10"]
 body:
   - type: markdown
     attributes:
