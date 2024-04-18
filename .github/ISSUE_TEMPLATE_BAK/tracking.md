@@ -2,7 +2,7 @@
 name: Tracking/Action Item
 about: Use this issue type to track and manage any actions that require a certain amount of time. Don't use this issue type if the task will be closed within hours.
 title: "[Tracking/Action] some descriptive title"
-labels: "tracking, triage-required"
+labels: "issue/needs-triage, board/unassigned"
 assignees: ''
 
 ---

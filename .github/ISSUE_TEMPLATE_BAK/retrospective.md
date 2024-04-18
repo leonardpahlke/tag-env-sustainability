@@ -2,7 +2,7 @@
 name: Retrospective
 about: Retrospective issue to reflect on a project, presence of the TAG at an event or any other matter.
 title: "[RETRO] some descriptive title"
-labels: "retrospective"
+labels: "kind/retrospective, issue/needs-triage, board/unassigned"
 assignees: ''
 
 ---

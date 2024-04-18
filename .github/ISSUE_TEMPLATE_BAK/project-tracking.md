@@ -2,7 +2,7 @@
 name: Project Tracking
 about: Please use this template only if your project proposal / suggestion was accepted. This template is used to track the ongoing project progress.
 title: "[PROJECT TRACKING] some descriptive title"
-labels: "tracking"
+labels: "board/tag, issue/tracking, issue/needs-triage"
 assignees: ''
 
 ---

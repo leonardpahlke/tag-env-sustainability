@@ -2,7 +2,7 @@
 name: Presentation
 about: Have something you want to share with the group? Or someone you would like to invite to speak? Propose a presentation for the TAG Environmental Sustainability regular meetings.
 title: "[Presentation] some descriptive title"
-labels: "presentation, triage-required"
+labels: "kind/presentation, issue/needs-triage, board/unassigned"
 assignees: ''
 
 ---

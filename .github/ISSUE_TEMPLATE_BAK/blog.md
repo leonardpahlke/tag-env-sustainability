@@ -2,7 +2,7 @@
 name: Blog Post
 about: Blog website article template
 title: '[BLOG] <blog-title>'
-labels: 'blog'
+labels: 'wg-comms/blog, board/wg-comms'
 assignees: ''
 
 ---
